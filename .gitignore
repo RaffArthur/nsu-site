@@ -11,6 +11,6 @@
 \
 tmp/\
 \
-_old\
+*._old\
 \
-_backup}
+*._backup}
